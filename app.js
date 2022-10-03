@@ -1,3 +1,4 @@
-function saludar(){
-    return "Hola: "
+function saludar(name){
+    let d = new Date();
+    return "Hola: " + name + "Hora/Fecha: " + d;;
 }
