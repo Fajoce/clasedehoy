@@ -4,3 +4,7 @@ function saludar(name){
     return "Hola: " + name + "Hora/Fecha: " + d;;
 
 }
+
+function conversionDolar(peso){
+    return peso/4560;
+}
